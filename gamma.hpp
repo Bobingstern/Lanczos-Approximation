@@ -1,3 +1,7 @@
+#include <iostream>
+#include <complex.h>
+#include <math.h>
+
 double gammaG = 4.7421875;
 double gammaP[] = {
   0.99999999999999709182,
